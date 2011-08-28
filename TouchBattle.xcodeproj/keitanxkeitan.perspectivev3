@@ -268,12 +268,10 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
 							<array>
 								<string>29B97314FDCFA39411CA2CEA</string>
-								<string>359755451407629300488747</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>5</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
@@ -296,7 +294,7 @@
 							<real>185</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>1 59 1280 719 0 0 1280 778 </string>
+						<string>0 59 1280 719 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -326,7 +324,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>359758F11408E29E00488747</string>
+										<string>35D43C62140A41C6002CA122</string>
 										<key>history</key>
 										<array>
 											<string>3597545D14075FDA00488747</string>
@@ -360,7 +358,7 @@
 											<string>359758DA1408E13100488747</string>
 											<string>359758DB1408E13100488747</string>
 											<string>359758E71408E22400488747</string>
-											<string>359758EB1408E27000488747</string>
+											<string>359759231408E57800488747</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -374,18 +372,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1073, 539}}</string>
+								<string>{{0, 0}, {1073, 535}}</string>
 								<key>RubberWindowFrame</key>
-								<string>1 59 1280 719 0 0 1280 778 </string>
+								<string>0 59 1280 719 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>539pt</string>
+							<string>535pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>134pt</string>
+							<string>138pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -399,7 +397,9 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {1073, 70}}</string>
+										<string>{{10, 27}, {1073, 111}}</string>
+										<key>RubberWindowFrame</key>
+										<string>0 59 1280 719 0 0 1280 778 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -454,8 +454,6 @@
 									<dict>
 										<key>Frame</key>
 										<string>{{10, 27}, {1073, 107}}</string>
-										<key>RubberWindowFrame</key>
-										<string>1 59 1280 719 0 0 1280 778 </string>
 									</dict>
 									<key>Module</key>
 									<string>PBXBuildResultsModule</string>
@@ -483,11 +481,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>359754381407537500488747</string>
+				<string>35D43C51140A4175002CA122</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>359754391407537500488747</string>
+				<string>35D43C52140A4175002CA122</string>
 				<string>359754301407537500488747</string>
-				<string>3597543A1407537500488747</string>
+				<string>35D43C53140A4175002CA122</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -677,12 +675,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>3597555E1407632000488747</string>
-		<string>359755591407630100488747</string>
 		<string>/Users/keitanxkeitan/iOS Dev/projects/TouchBattle/TouchBattle.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>1 59 1280 719 0 0 1280 778 </string>
+	<string>0 59 1280 719 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
